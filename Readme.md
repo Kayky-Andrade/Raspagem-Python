@@ -1,10 +1,10 @@
 ## Chatbot + Web Scraping com Playwright (Python)
 
-Projeto acadêmico (uso interno do grupo): Chatbot que utiliza raspagem (web scraping) como uma das etapas do pipeline para coletar dados de um site desenvolvido pelo próprio grupo. Este README explica o que o projeto faz, como rodar e documenta linha por linha o script de scraping.
+Projeto acadêmico (uso interno do grupo): Chatbot que utiliza raspagem (web scraping) como uma das etapas do pipeline para coletar dados de um site. Este README explica o que o projeto faz, como rodar e documenta linha por linha o script de scraping.
 
 # 🔎 Visão Geral
 
-Objetivo: Demonstrar a coleta automatizada de dados (ex.: usuário, nome, links) a partir de um site criado pelo grupo.
+Objetivo: Demonstrar a coleta automatizada de dados (ex.: usuário, nome, links) a partir de um site.
 Stack: Python + Playwright (API síncrona).
 Saída: Um arquivo data.txt contendo os dados extraídos em JSON.
 Uso no Chatbot: As informações coletadas podem alimentar a base de conhecimento/intent do chatbot ou compor respostas.
