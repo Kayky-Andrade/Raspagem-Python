@@ -25,16 +25,19 @@ Python 3.9+ (Baixar pelo navegador)
 pip (gerenciador de pacotes do Python)
 
 Dependências Python:
-    playwright
+
+ playwright
 
 No primeiro uso do Playwright, é preciso instalar os browsers que ele controla.
 
 # ⚙️ Instalação (passo a passo)
 
 1) Instale as dependências
+
 pip install playwright
 
 2) Baixe os navegadores do Playwright
+ 
 python -m playwright install
 
 ▶️ Como Executar a Raspagem
