@@ -20,8 +20,10 @@ Usuário → Chatbot → (Consulta) → Base local/Arquivo JSON ← (Atualiza) �
 
 # ✅ Pré‑requisitos
 
-Python 3.9+
+Python 3.9+ (Baixar pelo navegador)
+
 pip (gerenciador de pacotes do Python)
+
 Dependências Python:
     playwright
 
