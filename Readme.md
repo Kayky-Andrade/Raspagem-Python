@@ -40,6 +40,14 @@ pip install playwright
  
 python -m playwright install
 
+3) Baixe o lxml
+
+pip install lxml
+
+4) Baixe o beautifulsoup4
+
+pip install beautifulsoup4
+
 ▶️ Como Executar a Raspagem
 
 Coloque o arquivo do script (ex.: one.py) no diretório do projeto e rode:
